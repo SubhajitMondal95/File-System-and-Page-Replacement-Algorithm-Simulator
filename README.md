@@ -66,6 +66,6 @@ $ ./simulator MODE
 
 Output
 
-Based on the algorithm, the output will be stored in an output file, in the same directory. If the mode was MODE, the output file will be CS15BTECH11036_MODE.out.
+Based on the algorithm, the output will be stored in an output file, in the same directory. If the mode was MODE, the output file will be SUBHAJIT15_MODE.out.
 
 The first line of the output file contains the number of page faults. Each subsequent line corresponds to the page access from the input file. The output is FAULT if there was a page fault, and NOFAULT otherwise.
