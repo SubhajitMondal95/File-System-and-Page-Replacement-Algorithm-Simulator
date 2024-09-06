@@ -232,7 +232,7 @@ void PageReplacement::display() {
 int main(int argc, char *argv[]) {
     string replacement_algorithm;
     const string file_name = "PageAccessSequence.txt"; // input file name
-    const string roll_number = "CS15BTECH11036";       // for output file name
+    const string roll_number = "SUBHAJIT15";       // for output file name
     fstream file_object;
     if (argc != 2) // if number of arguments supplied is incorrect
     {
